@@ -1,6 +1,6 @@
 # Expresso
 
-In this project, I built an app in Express with focus on the routing and database logic for an internal tool for a coffee shop called Expresso.
+In this project, I built an app in Express.js with focus on the routing and database logic for an internal tool for a coffee shop called Expresso.
 
 The Expresso internal tool allows users to:
 - Create, view, update, and delete menus
