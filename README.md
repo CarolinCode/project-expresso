@@ -20,3 +20,12 @@ I implemented followinig steps:
   Menu
   MenuItem
  -Create route paths (GET/POST/PUT/DELETE)
+
+### Expresso Frontend
+![Expresso Frontend](Homepage.png)
+
+### Add Employee and a timesheet for him/her
+![Add Employee and timesheet]()
+
+### Change Menu or Menu item
+![Change menu and menu item]()
