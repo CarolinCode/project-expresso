@@ -25,7 +25,7 @@ I implemented followinig steps:
 ![Expresso Frontend](Homepage.png)
 
 ### Add Employee and a timesheet for him/her
-![Add Employee and timesheet]()
+![Add Employee and timesheet](Add-employee-timesheet.png)
 
 ### Change Menu or Menu item
-![Change menu and menu item]()
+![Change menu and menu item](Change_menu_data.png)
