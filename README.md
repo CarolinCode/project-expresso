@@ -12,14 +12,14 @@ The aim of this CodeCademy project was to create the database tables and require
 
 I implemented followinig steps:
 - Create and export the Express app from a root-level file (*server.js*)
-- Set a port argument for the server to listen on from ( process.env.PORT` || `4000`)
+- Set a port argument for the server to listen on from ( `process.env.PORT` || `4000`)
 - Use the root-level *database.sqlite* as the API's database and set an optional database file argument from `process.env.TEST_DATABASE` in all Express route files that open and modify the database
 - Create following database tables:
-  Employee
-  Timesheet
-  Menu
-  MenuItem
- -Create route paths (GET/POST/PUT/DELETE)
+    - Employee
+    - Timesheet
+    - Menu
+    - MenuItem
+- Create route paths (GET/POST/PUT/DELETE)
 
 ### Expresso Frontend
 ![Expresso Frontend](Homepage.png)
